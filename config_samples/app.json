@@ -1,0 +1,13 @@
+{
+  "application": {
+    "name": "config-monitor-demo",
+    "debug": false
+  },
+  "database": {
+    "host": "localhost",
+    "port": 5432
+  },
+  "featureFlags": {
+    "newDashboard": false
+  }
+}
